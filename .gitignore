@@ -8,6 +8,7 @@ __pycache__
 # week3
 102flowers.tgz
 imagelabels.mat
+week3/*.hdf5
 
 # week4
 lfw-deepfunneled.tgz
