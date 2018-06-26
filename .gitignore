@@ -14,6 +14,8 @@ week3/*.hdf5
 lfw-deepfunneled.tgz
 lfw.tgz
 lfw_attributes.txt
+week4/*.hdf5
+week4/*.h5
 
 # week6
 captions_train-val2014.zip
